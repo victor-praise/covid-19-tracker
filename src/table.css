@@ -1,0 +1,28 @@
+.table {
+  margin-top: 20px;
+  overflow-x: scroll;
+  height: 400px;
+  scrollbar-width: thin;
+  color: #6a5d5b;
+}
+.table tr:nth-of-type(odd){
+    background-color: #f3f2f8;
+}
+.table tr{
+    display: flex;
+    justify-content: space-between;
+}
+.table td {
+    padding: 0.6rem;
+}
+.table::-webkit-scrollbar {
+      width: 0.458em;
+}
+.table::-webkit-scrollbar-track {
+      box-shadow: inset 0 0 6px rgba(187, 187, 187, 0.3);
+ }
+
+.table::-webkit-scrollbar-thumb {
+      background-color: rgb(190, 206, 216);
+      outline: 1px solid rgb(187, 194, 200);
+ }
