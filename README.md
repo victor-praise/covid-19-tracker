@@ -1,4 +1,4 @@
-# Live Demo : https://https://covid-19-tracker-b9c02b.netlify.app/
+# Live Demo : https://covid-19-tracker-b9c02b.netlify.app/
 
 # Getting Started with Create React App
 
